@@ -1,6 +1,6 @@
 streamlit
 textblob
 autocorrect
-language_tool_python
+language_tool_python==2.8.0
 requests
 pyperclip
